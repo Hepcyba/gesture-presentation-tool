@@ -20,4 +20,4 @@ pip install -r requirements.txt
 Watch the gesture-controlled presentation tool in action:  
 👉 [Click to Watch Demo](https://drive.google.com/file/d/15G-43sry-1W-SiO9YR9YUzP6DgC68j1D/view?usp=sharing)
 
-https://drive.google.com/file/d/15G-43sry-1W-SiO9YR9YUzP6DgC68j1D/view?usp=drive_link
+https://drive.google.com/file/d/1zk329NhBwfnz9MHGpokI24psfGmvtEha/view?usp=drive_link
