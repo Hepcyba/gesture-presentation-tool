@@ -44,4 +44,25 @@ A touchless presentation tool built using **Python**, **OpenCV**, **MediaPipe**,
 ---
 
 ## 📁 Directory Structure
+gesture-presentation-tool/
+├── gesture_controller.py # Main gesture recognition script
+├── requirements.txt # Python dependencies
+├── README.md # Project info and usage
+└── reveal.js/ # Reveal.js slides (submodule or folder)
+
+---
+
+## 📌 Future Improvements
+
+- ✅ Zoom In/Out gestures  
+- 🧭 Pointer on screen using index finger  
+- 🎯 Gesture for drawing/annotation  
+- 🧪 Add unit tests for gesture functions  
+- 🌐 Deploy presentation online for global access  
+
+---
+
+## 🔗 GitHub
+
+👉 [github.com/Hepcyba/gesture-presentation-tool](https://github.com/Hepcyba/gesture-presentation-tool)
 
